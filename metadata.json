@@ -1,0 +1,6 @@
+{
+  "name": "Amish Homestead",
+  "description": "Amish Homestead - Promoting rabbit welfare, education, rescue, and community care programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
