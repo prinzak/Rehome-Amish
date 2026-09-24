@@ -75,7 +75,7 @@ export const LatestUpdates: React.FC = () => {
         {/* More Articles Button */}
         <div className="mt-14 text-center">
           <a
-            href="https://houserabbit.org/articles"
+            href="/articles"
             className="inline-flex items-center justify-center px-8 py-3 text-sm font-semibold tracking-wide text-white border-2 border-white rounded-full hover:bg-white hover:text-[#1c2226] transition-colors duration-200 shadow-md"
           >
             More Articles

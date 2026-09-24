@@ -29,7 +29,7 @@ export const navigationItems: NavItem[] = [
       { title: 'Classes', href: 'https://houserabbit.org/classes' },
       { title: 'Rabbit Care', href: 'https://houserabbit.org/care' },
       { title: 'Rabbit Health', href: 'https://houserabbit.org/health' },
-      { title: 'Articles and Updates', href: 'https://houserabbit.org/articles' },
+      { title: 'Articles and Updates', href: '/articles' },
       { title: 'Housing Rights for Pet Owners', href: 'https://houserabbit.org/housingrights' },
     ],
   },
